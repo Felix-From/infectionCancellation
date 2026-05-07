@@ -1,0 +1,5 @@
+Sandbox_EN = {
+	Sandbox_PZinfectionCancellation = "Infektions Stornierung",
+	Sandbox_PZinfectionCancellation_SurvivalChance = "Heilungschance in %",
+	Sandbox_PZinfectionCancellation_FastHealer = "Beschleunigung durch Eigenschaft Schneller Heiler",
+}
