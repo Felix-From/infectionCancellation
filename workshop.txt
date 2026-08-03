@@ -1,8 +1,11 @@
 version=1
 id=2989529177
-title=Infection Cancellation with Options
+title=Infection Cancellation with Options [B42.20 stable]
 description=This mod gives you a chance to survive a infection. (Default: 2%, but changeable in Sandbox Options)
 description=In addition with the Perk "Fast Healer" you fight the Infection faster. (Only faster, not better)
+description=
+description=-Update to Stable B42.20
+description=- If something is buggy just message me.
 description=
 description=-Update to Unstable B42.16.3
 description=- If something is buggy just message me.
