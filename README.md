@@ -4,7 +4,7 @@ A Project Zomboid mod that gives you a small chance to survive a zombie infectio
 
 ## What it does
 
-When your infection reaches ~95%, a dice roll determines whether your body fights it off. By default there's a **2% chance** to survive — configurable in Sandbox Options.
+When your infection reaches ~80%, a dice roll determines whether your body fights it off. By default there's a **2% chance** to survive — configurable in Sandbox Options.
 
 If you survive, the infection is cleared and you live to fight another day. If not, your fate is sealed.
 
@@ -13,7 +13,6 @@ If you survive, the infection is cleared and you live to fight another day. If n
 | Option | Default | Description |
 |--------|---------|-------------|
 | Survival Chance | 2% | Odds (0–100) of surviving an infection |
-| Fast Healer bonus | Off | If enabled, the Fast Healer perk triggers the roll earlier (~45% instead of 95%) |
 
 <img src="preview.png">
 
